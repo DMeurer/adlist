@@ -17,3 +17,6 @@ ad-srv.net
 *.ad-srv.net
 ingage.tech
 *.ingage.tech
+ssl.gstatic.com
+c.amazon-adsystem.com
+ads.mozilla.org
